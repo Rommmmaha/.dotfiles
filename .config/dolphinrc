@@ -1,0 +1,46 @@
+MenuBar=Disabled
+
+[CompactMode]
+PreviewSize=16
+
+[ContentDisplay]
+DirectorySizeMode=ContentSize
+RecursiveDirectorySizeLimit=20
+
+[ContextMenu]
+ShowOpenTerminal=false
+
+[DetailsMode]
+PreviewSize=16
+RightPadding=0
+
+[ExtractDialog]
+1920x1080 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/p_screenshots/,$HOME/Games/,$HOME/.local/share/fonts/
+
+[General]
+ConfirmClosingMultipleTabs=false
+OpenExternallyCalledFolderInNewTab=true
+RememberOpenedTabs=false
+ShowFullPathInTitlebar=true
+Version=202
+ViewPropsTimestamp=2025,7,13,13,30,45.951
+
+[IconsMode]
+IconSize=16
+MaximumTextLines=0
+PreviewSize=16
+TextWidthIndex=0
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=16
+
+[MainWindow]
+MenuBar=Disabled
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,avif,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,heif,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,librsvg,svgthumbnail,gdk-pixbuf-thumbnailer
