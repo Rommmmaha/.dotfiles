@@ -1,4 +1,17 @@
+[Added Associations]
+
 [Default Applications]
+application/json=code-insiders.desktop
+application/vnd.efi.iso=org.kde.ark.desktop;
+application/x-yaml=code-insiders.desktop
+application/x-zerosize=code-insiders.desktop;
+application/xml=code-insiders.desktop
+application/zip=org.kde.ark.desktop;
+audio/flac=mpv.desktop
+audio/mpeg=mpv.desktop
+audio/ogg=mpv.desktop
+audio/wav=mpv.desktop
+audio/x-m4a=mpv.desktop
 image/avif=com.interversehq.qView.desktop
 image/bmp=com.interversehq.qView.desktop
 image/gif=com.interversehq.qView.desktop
@@ -12,24 +25,14 @@ image/webp=com.interversehq.qView.desktop
 image/x-xcf=com.interversehq.qView.desktop
 inode/directory=org.kde.dolphin.desktop
 inode/x-empty=code-insiders.desktop
-application/json=code-insiders.desktop
-application/x-yaml=code-insiders.desktop
-application/x-zerosize=code-insiders.desktop;
-application/xml=code-insiders.desktop
 text/css=code-insiders.desktop
 text/csv=code-insiders.desktop
+text/html=vivaldi-snapshot.desktop
 text/javascript=code-insiders.desktop
 text/markdown=code-insiders.desktop
 text/plain=code-insiders.desktop
+text/vnd.trolltech.linguist=code-insiders.desktop;
 text/x-shellscript=code-insiders.desktop
-application/x-zerosize=code-insiders.desktop;
-
-audio/flac=mpv.desktop
-audio/mpeg=mpv.desktop
-audio/ogg=mpv.desktop
-audio/wav=mpv.desktop
-audio/x-m4a=mpv.desktop
-
 video/mp4=mpv.desktop
 video/quicktime=mpv.desktop
 video/webm=mpv.desktop
@@ -37,11 +40,8 @@ video/x-flv=mpv.desktop
 video/x-matroska=mpv.desktop
 video/x-ms-wmv=mpv.desktop
 video/x-msvideo=mpv.desktop
-
-text/html=vivaldi-snapshot.desktop
 x-scheme-handler/http=vivaldi-snapshot.desktop
 x-scheme-handler/https=vivaldi-snapshot.desktop
-x-scheme-handler/viber=viber.desktop
 x-scheme-handler/tg=org.telegram.desktop.desktop
 x-scheme-handler/tonsite=org.telegram.desktop.desktop
-
+x-scheme-handler/viber=viber.desktop

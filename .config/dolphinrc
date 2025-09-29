@@ -16,7 +16,6 @@ RightPadding=0
 
 [ExtractDialog]
 1920x1080 screen: Window-Maximized=true
-DirHistory[$e]=$HOME/p_screenshots/,$HOME/Games/,$HOME/.local/share/fonts/
 
 [General]
 ConfirmClosingMultipleTabs=false
