@@ -22,6 +22,7 @@ def main():
         {"classes": ["org.telegram.desktop", "org.ayugram.desktop"], "workspace": 1},
         {"classes": ["legcord"], "workspace": 1},
         {"classes": ["com.obsproject.Studio"], "workspace": 10},
+        {"classes": ["kitty"], "workspace": 10},
         {
             "classes": ["com.saivert.pwvucontrol", "org.pulseaudio.pavucontrol"],
             "workspace": 10,
